@@ -3,5 +3,8 @@ Followed this tutorial (https://youtu.be/vyqbNFMDRGQ) from Chris Courses to lear
 
 #Images
 
+![App Screenshot](https://github.com/bekirtahagd/fighting-game-prototype/blob/main/Fighting-Game-Prototype-Preview.png)
+
+
 # Demo
 https://bekirtahagd.github.io/fighting-game-prototype/
