@@ -4,4 +4,4 @@
  A cool fighting game
 
 # Demo
-https://bekirtahagd.github.io/fighting-game/
+https://bekirtahagd.github.io/fighting-game-prototype/
